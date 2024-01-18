@@ -95,7 +95,6 @@ proxies:
   - {name: 🇱🇺 _LU_卢森堡, server: 202.78.162.6, port: 80, type: vmess, uuid: 66fef53b-1b57-466d-89a4-bd99b90f6473, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /@forwardv2ray, headers: {Host: irisoft.servecounterstrike.com}}}
   - {name: 🇺🇸 _US_美国 7, server: 54.213.46.0, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trj.rollingnext.co.uk, skip-cert-verify: true}
   - {name: 104.234.202.187@SSRSUB, server: 104.234.202.187, port: 24422, type: ss, cipher: aes-256-gcm, password: qw7lnQ2zj3}
-  - {name: 1111@SSRSUB, server: 176.119.203.233, port: 1111, type: ss, cipher: chacha20-poly1305, password: !<str> 123456789}
   - {name: 163.197.212.241@SSRSUB, server: 163.197.212.241, port: 5555, type: ss, cipher: aes-256-gcm, password: 2006825xcj}
   - {name: 175.178.55.243@SSRSUB, server: 175.178.55.243, port: 33963, type: ss, cipher: chacha20-poly1305, password: MxZuOpppbY}
   - {name: 183.110.194.4|频道, server: 183.110.194.4, port: 9988, type: ss, cipher: aes-256-gcm, password: !<str> 12345678}
@@ -502,7 +501,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -908,7 +906,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -1315,7 +1312,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -1754,7 +1750,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -2160,7 +2155,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -2567,7 +2561,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
@@ -2983,7 +2976,6 @@ proxy-groups:
       - 🇱🇺 _LU_卢森堡
       - 🇺🇸 _US_美国 7
       - 104.234.202.187@SSRSUB
-      - 1111@SSRSUB
       - 163.197.212.241@SSRSUB
       - 175.178.55.243@SSRSUB
       - 183.110.194.4|频道
